@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a  22 year-old Syrian Software Engineer<br>I am currently working on a Full Stack Blogging web app
+a 22 year-old Software Engineer that has nothing to do but to code.
 
 
 ## 🌐 Socials:
