@@ -15,8 +15,6 @@ I am a  22 year-old Syrian Software Engineer<br>I am currently working on a Full
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechRami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TechRami&icon=2&color=1)](https://visitcount.itsvg.in)
