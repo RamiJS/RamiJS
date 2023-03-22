@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A 22 year-old Software Engineer with a strong passion for coding and a dedication to staying up-to-date with the latest technologies and trends.
 
 
