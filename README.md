@@ -1,1 +1,1 @@
-23 | SE | Typescript | Next | React
+23 | SWE | Typescript | Next | React
